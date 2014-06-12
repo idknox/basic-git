@@ -1,3 +1,15 @@
+commit 7180561f86f39abd14460861d11cab59d31e5bd4
+Author: Peter Grunde <peter.a.grunde@gmail.com>
+Date:   Thu Jun 12 16:07:17 2014 -0600
+
+    Attempting conflict file
+
+commit 3b8461432b40f9aac4b49ff273784220bcaa75f0
+Author: idknox <knoxid@gmail.com>
+Date:   Thu Jun 12 16:01:37 2014 -0600
+
+    Added git-log file
+
 commit 28bb1b90553100734b5b80214e488bc1acda9f48
 Author: idknox <knoxid@gmail.com>
 Date:   Thu Jun 12 15:59:41 2014 -0600
